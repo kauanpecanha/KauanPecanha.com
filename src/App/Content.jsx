@@ -14,6 +14,7 @@ export default function Content(){
             <Route path="/SobreMim" element={<MyCurriculum />} />
             <Route path="/MinhaHistoria" element={<MyHistory />} />
             <Route path="/MeuCurriculo" element={<AboutMe />} />
+            {/* Kauan */}
 
         </Routes>
     )
